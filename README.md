@@ -1,2 +1,2 @@
 # rfat12-
-Simple Fat12 File System Implementation in Rust
+Simple and minimalimplementation of a fat12 reader
