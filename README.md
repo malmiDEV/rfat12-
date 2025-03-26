@@ -1,2 +1,2 @@
 # rfat12-
-Simple and minimalimplementation of a fat12 reader
+Simple and minimal implementation of a fat12 reader
